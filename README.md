@@ -1,7 +1,7 @@
 # cube tanks
 Cube tanks is a small local multyplayer game I am making.
 
-!!!YOU HAVE TO HAVE NODE.JS INSTALED!!! https://nodejs.org/en
+!!!YOU HAVE TO HAVE NODE.JS INSTALLED!!! https://nodejs.org/en
 
 To play you nead to extract the cube tanks.zip.
 Then you oppen the RUN.bat.
