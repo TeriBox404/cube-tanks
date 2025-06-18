@@ -11,4 +11,16 @@ One computer acts like the server and every device connected to the same WiFi, w
 
 # plans
 I have big plans for this game.
-Furst thing in my list is names and life system.
+Furst thing in my list is a life system.
+
+# Updates!
+Added:
+Functional turrets.
+
+You can now hold "z" for haf a second to launch ballistic calculator.
+
+Commands window.
+
+1000x800 resolutin.
+
+General code update.
