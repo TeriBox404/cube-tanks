@@ -3,11 +3,18 @@ Cube tanks is a small local multyplayer game I am making.
 
 !!!YOU HAVE TO HAVE NODE.JS INSTALLED!!! https://nodejs.org/en
 
-To play you nead to extract the cube tanks.zip.
+To play you nead to extract the cube-tanks.zip.
 Then you oppen the RUN.bat.
 When this is done just go to the link shown in the cmd window(http://192.168.1.12:9026).
 
 One computer acts like the server and every device connected to the same WiFi, will be abble to join.
+
+# Installing
+There are two ways.
+
+Way 1:Oppen cmd in the game folder and run "npm i".
+
+Way 2: Oppen RUN.bat
 
 # plans
 I have big plans for this game.
