@@ -21,6 +21,7 @@ cls
 node server.js
 echo.
 echo.
-echo Error detected!Press any key to exit.
+echo [91mError detected![0m
+echo [91mPress any key to exit.[0m
 pause>nul
 exit
