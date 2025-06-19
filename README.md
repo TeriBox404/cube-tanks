@@ -23,6 +23,7 @@ Console and commands
 In commands you have two options:
 
 1.restart - will restart the server.
+
 2.kill - will stop the server.
 
 # plans
