@@ -16,12 +16,20 @@ Way 1:Oppen cmd in the game folder and run "npm i".
 
 Way 2: Oppen RUN.bat
 
+#RUN.bat and commands.bat
+When you oppen RUN for the furst time it will install some neded files.
+Usually it when you oppen it two windows popup.
+Console and commands
+In commands you have two options:
+
+1.restart - will restart the server.
+2.kill - will stop the server.
+
 # plans
 I have big plans for this game.
 Furst thing in my list is a life system.
 
-# Updates!
-Added:
+# Done!
 Functional turrets.
 
 You can now hold "z" for haf a second to launch ballistic calculator.
@@ -31,3 +39,8 @@ Commands window.
 1000x800 resolutin.
 
 General code update.
+
+# Updates!
+Changed:
+Removed .zip format!
+Updated RUN.bat
