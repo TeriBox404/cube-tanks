@@ -32,11 +32,11 @@ Furst thing in my list is a life system.
 # Done!
 Functional turrets.
 
-You can now hold "z" for haf a second to launch ballistic calculator.
+You can now hold "z" for half a second to launch ballistic calculator.
 
 Commands window.
 
-1000x800 resolutin.
+1000x800 resolution.
 
 General code update.
 
