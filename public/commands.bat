@@ -11,8 +11,9 @@ echo restart - Restarts the server.
 set /p "c=>"
 if %c% == kill goto kill
 if %c% == restart goto restart
+cls
 echo.
-echo Invalid option!
+echo [91m%c% is an invalid command![0m
 goto commands
 
 :kill
