@@ -28,7 +28,7 @@ In commands you have two options:
 
 # plans
 I have big plans for this game.
-Furst thing in my list is a life system.
+Furst thing on my list is a life system.
 
 # Done!
 Functional turrets.
